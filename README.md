@@ -23,19 +23,19 @@ After getting successful connection you can use follow operations
 
 /send [Enter]
 $YourMessageOnNextLine [Enter]
-~Message sent~
+*Message sent*
 *You can see reply on the same terminal*
 /stop <-- to come back to main menu
 
 /file_handler [Enter]
 ls [Enter] (To see list of file)
-~file listed~
+*file listed*
 cd [Enter]
 Enter dir name on next line listed using ls command to change directory
-~Directory changed~
+*Directory changed*
 rm [Enter]
 Enter dir or file name on next line listed using ls command to delete file
-~File deleted~
+*File deleted*
 /stop <-- to come back to main menu
 
 /exit [Enter]
